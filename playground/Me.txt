@@ -1,5 +1,0 @@
-{{#user}}
-Name: Laxmikant 
-Skills: HTML, CSS, JS, React.js, Bootstrap, Material ui, Nodejs, MongoDB, GitHub, Redux. 
-Email: markelaxmikant99@gmail.com
-{{/user}}
